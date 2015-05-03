@@ -16,6 +16,6 @@
   </script>
  </head>
  <body>
-  <h3>Hello worl22222d!</h3>
+  <h3>Hello world!</h3>
  </body>
 </html>
